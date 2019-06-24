@@ -6,4 +6,4 @@
 
 ## Lecture code / videos
 
-* 01 Hashketball
+* 01 Hashketball [code](https://github.com/learn-co-students/dc-web-062419/tree/master/01-hashketball-review) | [video](https://youtu.be/aQ8C3U566MQ)
