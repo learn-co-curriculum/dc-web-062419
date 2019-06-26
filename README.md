@@ -8,3 +8,4 @@
 
 * 01 Hashketball [code](https://github.com/learn-co-students/dc-web-062419/tree/master/01-hashketball-review) | [video](https://youtu.be/aQ8C3U566MQ)
 * 02 Hashes and APIs [code](https://github.com/learn-co-students/dc-web-062419/tree/master/02-apis-and-the-internet) | video [pt1](https://youtu.be/NQZz6BSxD7U) [pt2](https://youtu.be/6_1BG6r0Q-E)
+* 03 Intro to Object Oriented Programming [code](https://github.com/learn-co-students/dc-web-062419/tree/master/3-Intro-to-OO) | [video](https://youtu.be/0rZrYTXLWEM)
