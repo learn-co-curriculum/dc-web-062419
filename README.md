@@ -10,3 +10,4 @@
 * 02 Hashes and APIs [code](https://github.com/learn-co-students/dc-web-062419/tree/master/02-apis-and-the-internet) | video [pt1](https://youtu.be/NQZz6BSxD7U) [pt2](https://youtu.be/6_1BG6r0Q-E)
 * 03 Intro to Object Oriented Programming [code](https://github.com/learn-co-students/dc-web-062419/tree/master/3-Intro-to-OO) | [video](https://youtu.be/0rZrYTXLWEM)
 * 04 One to Many [code](https://github.com/learn-co-students/dc-web-062419/tree/master/4-One-to-Many) | [video](https://youtu.be/hTYIsJS8JFg)
+* 05 OO My Pets Lab Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/05-OO-My-Pets-Review) | [video](https://youtu.be/Xa-99G1B8nQ)
