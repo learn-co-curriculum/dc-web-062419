@@ -11,3 +11,19 @@
 * 03 Intro to Object Oriented Programming [code](https://github.com/learn-co-students/dc-web-062419/tree/master/3-Intro-to-OO) | [video](https://youtu.be/0rZrYTXLWEM)
 * 04 One to Many [code](https://github.com/learn-co-students/dc-web-062419/tree/master/4-One-to-Many) | [video](https://youtu.be/hTYIsJS8JFg)
 * 05 OO My Pets Lab Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/05-OO-My-Pets-Review) | [video](https://youtu.be/Xa-99G1B8nQ)
+
+## Blog Groups
+
+**Group A:** Ursula Miller, Kolton Starr, Lisa Antwi Adjei, Carlos Velasquez, Jesse Berman, Leslie Sage, Harum Helmy, Michelle Lam
+**Group B:** Luke O'Malley, Claudia Solbes, Trevahr Robertson, Nick Ruggieri, Samantha Kane, Ashley Tolen, Hannah Nilagate
+
+## Blog Schedule
+
+* July 11 - Group A
+* July 18 - Group B
+* July 25 - Group A
+* August 1 - Group B
+* August 29 - Group A
+* September 5 - Group B
+* September 12 - Group A
+* September 19 - Grouup B
