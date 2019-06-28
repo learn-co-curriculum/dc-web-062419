@@ -13,8 +13,8 @@
 
 ## Blog Groups
 
-Group A: Ursula Miller, Kolton Starr, Lisa Antwi Adjei, Carlos Velasquez, Jesse Berman, Leslie Sage, Harum Helmy, Michelle Lam
-Group B:Luke O'Malley, Claudia Solbes, Trevahr Robertson, Nick Ruggieri, Samantha Kane, Ashley Tolen, Hannah Nilagate
+*Group A:* Ursula Miller, Kolton Starr, Lisa Antwi Adjei, Carlos Velasquez, Jesse Berman, Leslie Sage, Harum Helmy, Michelle Lam
+*Group B:* Luke O'Malley, Claudia Solbes, Trevahr Robertson, Nick Ruggieri, Samantha Kane, Ashley Tolen, Hannah Nilagate
 
 ## Blog Schedule
 
