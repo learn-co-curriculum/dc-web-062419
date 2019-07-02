@@ -12,6 +12,7 @@
 * 04 One to Many [code](https://github.com/learn-co-students/dc-web-062419/tree/master/4-One-to-Many) | [video](https://youtu.be/hTYIsJS8JFg)
 * 05 OO My Pets Lab Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/05-OO-My-Pets-Review) | [video](https://youtu.be/Xa-99G1B8nQ)
 * 06 Many to Many [code](https://github.com/learn-co-students/dc-web-062419/tree/master/06-Many-to-Many) | [video part 1](https://youtu.be/jIZ08aAbcJQ) | [video part 2](https://youtu.be/nv21DY-l8V4)
+* 07 Intro to SQL [code](https://github.com/learn-co-students/dc-web-062419/tree/master/07-Intro-To-SQL)
 
 ## Blog Groups
 
