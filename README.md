@@ -30,4 +30,4 @@
 * August 29 - Group A
 * September 5 - Group B
 * September 12 - Group A
-* September 19 - Grouup B
+* September 19 - Group B
