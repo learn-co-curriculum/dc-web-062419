@@ -15,7 +15,7 @@
 * 07 Intro to SQL [code](https://github.com/learn-co-students/dc-web-062419/tree/master/07-Intro-To-SQL) | [video](https://youtu.be/fZ1oHwcMo6w)
 * 08 Many to Many Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/08-Many-To-Many-Review) | [video](https://www.youtube.com/watch?v=61xuCj8adsE&feature=youtu.be)
 * 09 Intro to ORMs [code](https://github.com/learn-co-students/dc-web-062419/tree/master/09-intro-to-orms) | [video](https://youtu.be/GOCpiwUHNFw)
-
+* 10 Inheritance [code](https://github.com/learn-co-students/dc-web-062419/tree/master/10-inheritance) | [video](https://youtu.be/IplXjfXgn6k)
 ## Blog Groups
 
 * **Group A:** Ursula Miller, Kolton Starr, Lisa Antwi Adjei, Carlos Velasquez, Jesse Berman, Leslie Sage, Harum Helmy, Michelle Lam
