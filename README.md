@@ -16,6 +16,9 @@
 * 08 Many to Many Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/08-Many-To-Many-Review) | [video](https://www.youtube.com/watch?v=61xuCj8adsE&feature=youtu.be)
 * 09 Intro to ORMs [code](https://github.com/learn-co-students/dc-web-062419/tree/master/09-intro-to-orms) | [video](https://youtu.be/GOCpiwUHNFw)
 * 10 Inheritance [code](https://github.com/learn-co-students/dc-web-062419/tree/master/10-inheritance) | [video](https://youtu.be/IplXjfXgn6k)
+* 11 Intro to Active Record [code](https://github.com/learn-co-students/dc-web-062419/tree/master/11-intro-to-active-record) | [video](https://youtu.be/hQ20bQDaDIA)
+* 12 Active Record Associations [code](https://github.com/learn-co-students/dc-web-062419/tree/master/12-active-record-associations) | [video (from last mod)](https://youtu.be/BE8pl7DXwvo)
+
 ## Blog Groups
 
 * **Group A:** Ursula Miller, Kolton Starr, Lisa Antwi Adjei, Carlos Velasquez, Jesse Berman, Leslie Sage, Harum Helmy, Michelle Lam
