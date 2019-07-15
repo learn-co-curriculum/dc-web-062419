@@ -19,6 +19,7 @@
 * 11 Intro to Active Record [code](https://github.com/learn-co-students/dc-web-062419/tree/master/11-intro-to-active-record) | [video](https://youtu.be/hQ20bQDaDIA)
 * 12 Active Record Associations [code](https://github.com/learn-co-students/dc-web-062419/tree/master/12-active-record-associations) | [video (from last mod)](https://youtu.be/BE8pl7DXwvo)
 * 13 Testing [code](https://github.com/learn-co-students/dc-web-062419/tree/master/13-intro-to-testing) | [video](https://youtu.be/nEwYwjGH5Xc)
+* 14 Welcome to the Internet [video](https://youtu.be/neBv0Y9Es0o)
 
 ## Blog Groups
 
