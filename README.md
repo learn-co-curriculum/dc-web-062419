@@ -21,6 +21,7 @@
 * 13 Testing [code](https://github.com/learn-co-students/dc-web-062419/tree/master/13-intro-to-testing) | [video](https://youtu.be/nEwYwjGH5Xc)
 * 13.5 Welcome to the Internet [video](https://youtu.be/neBv0Y9Es0o)
 * 14 Intro to Sinatra / MVC [code](https://github.com/learn-co-students/dc-web-062419/tree/master/14-sinatra-mvc) | [video](https://youtu.be/6VTCclwT9M8)
+* 15 Sinatra Forms [code](https://github.com/learn-co-students/dc-web-062419/tree/master/15-sinatra-forms) | [video](https://youtu.be/HV_ggSI8fTM)
 
 ## Blog Groups
 
