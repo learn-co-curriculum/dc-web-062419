@@ -24,6 +24,7 @@
 * 15 Sinatra Forms [code](https://github.com/learn-co-students/dc-web-062419/tree/master/15-sinatra-forms) | [video](https://youtu.be/HV_ggSI8fTM)
 * 16 Sinatra Associated Objects [code](https://github.com/learn-co-students/dc-web-062419/tree/master/16-sinatra-associated-objects) | [video](https://youtu.be/OoG1DGdyPy8)
 * 17 Intro to Rails! [video](https://www.youtube.com/watch?v=BgecKTqgTx0)
+* 18 Rails CRUD [code](https://github.com/learn-co-students/dc-web-062419/tree/master/18-rails-crud-starter) | [video](https://youtu.be/6Qvb7SeC5TQ)
 
 ## Blog Groups
 
