@@ -26,6 +26,7 @@
 * 17 Intro to Rails! [code](https://github.com/learn-co-students/dc-web-062419/tree/master/17-intro-to-rails/pet_store) | [video](https://www.youtube.com/watch?v=BgecKTqgTx0)
 * 18 Rails CRUD [code](https://github.com/learn-co-students/dc-web-062419/tree/master/18-rails-crud-starter) | [video](https://youtu.be/6Qvb7SeC5TQ)
 * 19 Rails Associations [code](https://github.com/learn-co-students/dc-web-062419/tree/master/19-rails-associations) | video [pt1](https://youtu.be/TE1ZdcgUehs) [pt2](https://youtu.be/JVHOzePi6Ys)
+* 20 Rails Forms & Validations [video](https://www.youtube.com/watch?v=7RLa2qJS0Ac&feature=youtu.be)
 ## Blog Groups
 
 * **Group A:** Ursula Miller, Kolton Starr, Lisa Antwi Adjei, Jesse Berman, Leslie Sage, Harum Helmy, Michelle Lam
