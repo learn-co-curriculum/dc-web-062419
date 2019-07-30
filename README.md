@@ -29,6 +29,7 @@
 * 20 Rails Forms & Validations [video](https://www.youtube.com/watch?v=7RLa2qJS0Ac&feature=youtu.be)
 * 21 Rails Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/21-rails-review) | [video pt. 1](https://youtu.be/FG875qPwsjM) | [video pt. 2](https://youtu.be/HMp3D8QVtX8)
 * 22 Sessions and Cookies [code](https://github.com/learn-co-students/dc-web-062419/tree/master/22-sessions-and-cookies) | [video](https://youtu.be/4NclHBchzf8)
+* 23 Authentication [code](https://github.com/learn-co-students/dc-web-062419/tree/master/23-authentication) | [video pt 1] (https://youtu.be/KD29rinzpsE) [pt 2](https://youtu.be/u6a34_ywx4A)
 
 ## Blog Groups
 
