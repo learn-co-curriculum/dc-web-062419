@@ -31,6 +31,7 @@
 * 22 Sessions and Cookies [code](https://github.com/learn-co-students/dc-web-062419/tree/master/22-sessions-and-cookies) | [video](https://youtu.be/4NclHBchzf8)
 * 23 Authentication [code](https://github.com/learn-co-students/dc-web-062419/tree/master/23-authentication) | [video pt 1](https://youtu.be/KD29rinzpsE) [pt 2](https://youtu.be/u6a34_ywx4A)
 * 24 Authorization [code](https://github.com/learn-co-students/dc-web-062419/tree/master/24-authorization) | [video](https://youtu.be/4mN5Wv8CAnE)
+* 25 CSS [code](https://github.com/learn-co-students/dc-web-062419/tree/master/25-css) | [video](https://youtu.be/-yRNaZjWsrs)
 
 ## Blog Groups
 
