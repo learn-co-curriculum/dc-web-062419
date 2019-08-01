@@ -41,3 +41,9 @@
 * September 5 - Group B
 * September 12 - Group A
 * September 19 - Group B
+
+## Flatiron Students Present (FSP) Schedule
+
+* August 9 - Ursula Miller, Kolton Starr, Lisa Antwi Adjei, Jesse Berman, Leslie Sage
+* August 16 - Harum Helmy, Michelle Lam, Luke O'Malley, Claudia Solbes, Trevarh Robertson
+* August 23 - Nick Ruggieri, Samantha Kane, Ashley Tolen, Carlos Velasquez
