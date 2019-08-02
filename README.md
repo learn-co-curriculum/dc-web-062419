@@ -25,6 +25,13 @@
 * 16 Sinatra Associated Objects [code](https://github.com/learn-co-students/dc-web-062419/tree/master/16-sinatra-associated-objects) | [video](https://youtu.be/OoG1DGdyPy8)
 * 17 Intro to Rails! [code](https://github.com/learn-co-students/dc-web-062419/tree/master/17-intro-to-rails/pet_store) | [video](https://www.youtube.com/watch?v=BgecKTqgTx0)
 * 18 Rails CRUD [code](https://github.com/learn-co-students/dc-web-062419/tree/master/18-rails-crud-starter) | [video](https://youtu.be/6Qvb7SeC5TQ)
+* 19 Rails Associations [code](https://github.com/learn-co-students/dc-web-062419/tree/master/19-rails-associations) | video [pt1](https://youtu.be/TE1ZdcgUehs) [pt2](https://youtu.be/JVHOzePi6Ys)
+* 20 Rails Forms & Validations [video](https://www.youtube.com/watch?v=7RLa2qJS0Ac&feature=youtu.be)
+* 21 Rails Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/21-rails-review) | [video pt. 1](https://youtu.be/FG875qPwsjM) | [video pt. 2](https://youtu.be/HMp3D8QVtX8)
+* 22 Sessions and Cookies [code](https://github.com/learn-co-students/dc-web-062419/tree/master/22-sessions-and-cookies) | [video](https://youtu.be/4NclHBchzf8)
+* 23 Authentication [code](https://github.com/learn-co-students/dc-web-062419/tree/master/23-authentication) | [video pt 1](https://youtu.be/KD29rinzpsE) [pt 2](https://youtu.be/u6a34_ywx4A)
+* 24 Authorization [code](https://github.com/learn-co-students/dc-web-062419/tree/master/24-authorization) | [video](https://youtu.be/4mN5Wv8CAnE)
+* 25 CSS [code](https://github.com/learn-co-students/dc-web-062419/tree/master/25-css) | [video](https://youtu.be/-yRNaZjWsrs)
 
 ## Blog Groups
 
