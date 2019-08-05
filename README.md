@@ -33,6 +33,9 @@
 * 24 Authorization [code](https://github.com/learn-co-students/dc-web-062419/tree/master/24-authorization) | [video](https://youtu.be/4mN5Wv8CAnE)
 * 25 CSS [code](https://github.com/learn-co-students/dc-web-062419/tree/master/25-css) | [video](https://youtu.be/-yRNaZjWsrs)
 
+## Mod 3
+* 26 Intro to JS [code](https://github.com/learn-co-students/dc-web-062419/tree/master/26-JS-Intro) | [video](https://youtu.be/Z5ptXn9rf54)
+
 ## Blog Groups
 
 * **Group A:** Ursula Miller, Kolton Starr, Lisa Antwi Adjei, Jesse Berman, Leslie Sage, Harum Helmy, Michelle Lam
