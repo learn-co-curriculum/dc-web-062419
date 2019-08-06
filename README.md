@@ -36,6 +36,7 @@
 ## Mod 3
 * 26 Intro to JS [code](https://github.com/learn-co-students/dc-web-062419/tree/master/26-JS-Intro) | [video](https://youtu.be/Z5ptXn9rf54)
 * 27 Intro to DOM [code](https://github.com/learn-co-students/dc-web-062419/tree/master/27-Intro-to-DOM) | [video part 1](https://youtu.be/Bl7qFe-Z9kM) [video part 2](https://youtu.be/i1QYWfZegAU)
+* 28 Scope, Function, Callbacks, Iterators [code](https://github.com/learn-co-students/dc-web-062419/tree/master/28-Scope-Callbacks-Iterators) | [video](https://youtu.be/3Dtaiv_lG5I)
 
 ## Blog Groups
 
