@@ -39,6 +39,7 @@
 * 28 Scope, Function, Callbacks, Iterators [code](https://github.com/learn-co-students/dc-web-062419/tree/master/28-Scope-Callbacks-Iterators) | [video](https://youtu.be/3Dtaiv_lG5I)
 * 29 JS Events [code](https://github.com/learn-co-students/dc-web-062419/tree/master/29-JS-Events) | [video](https://youtu.be/d5acNBPTLaY)
 * 30 Task Lister Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/30-Task-Lister-Review) | [video](https://youtu.be/3F2X-PKhK98)
+* 31 Fetch [code](https://github.com/learn-co-students/dc-web-062419/tree/master/31-Fetch) | [video](https://youtu.be/FHD0VSzt7Ck)
 
 ## Blog Groups
 
