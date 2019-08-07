@@ -38,6 +38,7 @@
 * 27 Intro to DOM [code](https://github.com/learn-co-students/dc-web-062419/tree/master/27-Intro-to-DOM) | [video part 1](https://youtu.be/Bl7qFe-Z9kM) [video part 2](https://youtu.be/i1QYWfZegAU)
 * 28 Scope, Function, Callbacks, Iterators [code](https://github.com/learn-co-students/dc-web-062419/tree/master/28-Scope-Callbacks-Iterators) | [video](https://youtu.be/3Dtaiv_lG5I)
 * 29 JS Events [code](https://github.com/learn-co-students/dc-web-062419/tree/master/29-JS-Events) | [video](https://youtu.be/d5acNBPTLaY)
+* 30 Task Lister Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/30-Task-Lister-Review) | [video](https://youtu.be/3F2X-PKhK98)
 
 ## Blog Groups
 
