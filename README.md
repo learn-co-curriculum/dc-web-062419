@@ -41,6 +41,7 @@
 * 30 Task Lister Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/30-Task-Lister-Review) | [video](https://youtu.be/3F2X-PKhK98)
 * 31 Fetch [code](https://github.com/learn-co-students/dc-web-062419/tree/master/31-Fetch) | [video](https://youtu.be/FHD0VSzt7Ck)
 * 32 Single Page Applications [code](https://github.com/learn-co-students/dc-web-062419/tree/master/32-SPA) | [video](https://youtu.be/DEqXjF-Yx3Y)
+* 33 Toy Tale Lab Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/33-Toy%20Tale) | [video](https://youtu.be/NXbhTLUD4eI)
 
 ## Blog Groups
 
