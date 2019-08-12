@@ -42,6 +42,7 @@
 * 31 Fetch [code](https://github.com/learn-co-students/dc-web-062419/tree/master/31-Fetch) | [video](https://youtu.be/FHD0VSzt7Ck)
 * 32 Single Page Applications [code](https://github.com/learn-co-students/dc-web-062419/tree/master/32-SPA) | [video](https://youtu.be/DEqXjF-Yx3Y)
 * 33 Toy Tale Lab Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/33-Toy%20Tale) | [video](https://youtu.be/NXbhTLUD4eI)
+* 34 Rails API [code](https://github.com/learn-co-students/dc-web-062419/tree/master/34-Rails-API) | [video part 1](https://youtu.be/hOQUbGNhq_g) [video part 2](https://youtu.be/MZ8WIXtYuAM)
 
 ## Blog Groups
 
