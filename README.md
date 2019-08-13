@@ -43,7 +43,7 @@
 * 32 Single Page Applications [code](https://github.com/learn-co-students/dc-web-062419/tree/master/32-SPA) | [video](https://youtu.be/DEqXjF-Yx3Y)
 * 33 Toy Tale Lab Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/33-Toy%20Tale) | [video](https://youtu.be/NXbhTLUD4eI)
 * 34 Rails API [code](https://github.com/learn-co-students/dc-web-062419/tree/master/34-Rails-API) | [video part 1](https://youtu.be/hOQUbGNhq_g) [video part 2](https://youtu.be/MZ8WIXtYuAM)
-* 35 Pokemon Teams Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/35-Pokemon-Teams-Review)[video](https://youtu.be/dw0Js4MMqLI)
+* 35 Pokemon Teams Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/35-Pokemon-Teams-Review) | [video](https://youtu.be/dw0Js4MMqLI)
 
 ## Blog Groups
 
