@@ -44,6 +44,7 @@
 * 33 Toy Tale Lab Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/33-Toy%20Tale) | [video](https://youtu.be/NXbhTLUD4eI)
 * 34 Rails API [code](https://github.com/learn-co-students/dc-web-062419/tree/master/34-Rails-API) | [video part 1](https://youtu.be/hOQUbGNhq_g) [video part 2](https://youtu.be/MZ8WIXtYuAM)
 * 35 Pokemon Teams Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/35-Pokemon-Teams-Review) | [video](https://youtu.be/dw0Js4MMqLI)
+* 36 JS Q&A [code](https://github.com/learn-co-students/dc-web-062419/tree/master/36-JS-Q-and-A) | [video](https://youtu.be/lDbirceWIfs)
 
 ## Blog Groups
 
