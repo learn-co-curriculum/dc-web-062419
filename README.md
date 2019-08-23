@@ -47,6 +47,7 @@
 * 36 JS Q&A [code](https://github.com/learn-co-students/dc-web-062419/tree/master/36-JS-Q-and-A) | [video](https://youtu.be/lDbirceWIfs)
 * 37 TIPS [code](https://github.com/learn-co-students/dc-web-062419/tree/master/37-TIPS) | [video](https://youtu.be/KZCKv4NfCtA )
 * 38 this [code](https://github.com/learn-co-students/dc-web-062419/tree/master/38-this) | [video](https://youtu.be/79lcy_w9RKo)
+* 39 OOJS [code](https://github.com/learn-co-students/dc-web-062419/tree/master/39-OOJS) | [video](https://youtu.be/s6j2aQjG0eE)
 
 ## Blog Groups
 
