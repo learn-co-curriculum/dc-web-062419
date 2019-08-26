@@ -51,7 +51,8 @@
 * 40 OOJS and SPA [code](https://github.com/learn-co-students/dc-web-062419/tree/master/40-OOJS-and-SPA) | [video](https://youtu.be/xCAtmGUrCK8)
 
 ## Mod 4
-* 41 Intro to React [code](https://github.com/learn-co-students/dc-web-062419/tree/master/41-Intro-to-React) | [video](https://youtu.be/vIEggHqd5Wo) 
+* 41 Intro to React [code](https://github.com/learn-co-students/dc-web-062419/tree/master/41-Intro-to-React) | [video](https://youtu.be/vIEggHqd5Wo)
+* 42 Props [code](https://github.com/learn-co-students/dc-web-062419/tree/master/42-Props) | [video](https://youtu.be/YNUgs9eKR0M) 
 
 ## Blog Groups
 
