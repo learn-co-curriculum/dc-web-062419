@@ -50,6 +50,9 @@
 * 39 OOJS [code](https://github.com/learn-co-students/dc-web-062419/tree/master/39-OOJS) | [video](https://youtu.be/s6j2aQjG0eE)
 * 40 OOJS and SPA [code](https://github.com/learn-co-students/dc-web-062419/tree/master/40-OOJS-and-SPA) | [video](https://youtu.be/xCAtmGUrCK8)
 
+## Mod 4
+* 41 Intro to React [code](https://github.com/learn-co-students/dc-web-062419/tree/master/41-Intro-to-React) | [video](https://youtu.be/vIEggHqd5Wo) 
+
 ## Blog Groups
 
 * **Group A:** Ursula Miller, Kolton Starr, Lisa Antwi Adjei, Jesse Berman, Leslie Sage, Harum Helmy, Michelle Lam
