@@ -52,7 +52,8 @@
 
 ## Mod 4
 * 41 Intro to React [code](https://github.com/learn-co-students/dc-web-062419/tree/master/41-Intro-to-React) | [video](https://youtu.be/vIEggHqd5Wo)
-* 42 Props [code](https://github.com/learn-co-students/dc-web-062419/tree/master/42-Props) | [video](https://youtu.be/YNUgs9eKR0M) 
+* 42 Props [code](https://github.com/learn-co-students/dc-web-062419/tree/master/42-Props) | [video](https://youtu.be/YNUgs9eKR0M)
+* 43 State [code](https://github.com/learn-co-students/dc-web-062419/tree/master/43-State) | [video](https://youtu.be/OR5wBua3748)
 
 ## Blog Groups
 
