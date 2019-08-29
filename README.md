@@ -55,6 +55,7 @@
 * 42 Props [code](https://github.com/learn-co-students/dc-web-062419/tree/master/42-Props) | [video](https://youtu.be/YNUgs9eKR0M)
 * 43 State [code](https://github.com/learn-co-students/dc-web-062419/tree/master/43-State) | [video](https://youtu.be/OR5wBua3748)
 * 44 Animal Shelter Labe Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/44-Animal_Shelter) | [video](https://youtu.be/CxcU4FqSWic)
+* 45 LifeCycle Methods [code](https://github.com/learn-co-students/dc-web-062419/tree/master/45-Component-Lifecycle) | [video](https://youtu.be/aFySkTk3Ngw)
 
 ## Blog Groups
 
