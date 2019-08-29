@@ -70,7 +70,7 @@
 * July 25 - Group A
 * August 1 - Group B
 * August 29 - Group A
-* September 5 - Group B
+* September 5 - Group B + Kolton
 * September 12 - Group A
 * September 19 - Group B
 
