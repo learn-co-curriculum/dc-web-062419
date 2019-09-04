@@ -57,7 +57,9 @@
 * 44 Animal Shelter Labe Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/44-Animal_Shelter) | [video](https://youtu.be/CxcU4FqSWic)
 * 45 LifeCycle Methods [code](https://github.com/learn-co-students/dc-web-062419/tree/master/45-Component-Lifecycle) | [video](https://youtu.be/aFySkTk3Ngw)
 * 46 Hogwarts [code](https://github.com/learn-co-students/dc-web-062419/tree/master/46-hogwarts) | [video](https://youtu.be/HJ9FLqdwDV4)
-* 47 Thinking in React [code](https://github.com/learn-co-students/dc-web-062419/tree/master/47-Thinking-In-React) | [video part 1](https://www.youtube.com/watch?v=XcjZXHanv0w) [video part 2](https://youtu.be/2vZXE77Xy_Q)
+* 47 Thinking In React [code](https://github.com/learn-co-students/dc-web-062419/tree/master/47-Thinking-In-React) | [pt1](https://youtu.be/XcjZXHanv0w) | [pt2](https://youtu.be/2vZXE77Xy_Q)
+* 48 Sushi Saga Lab Review [code](https://github.com/learn-co-students/dc-web-062419/tree/master/48-Sushi-Saga-Review) | [video](https://youtu.be/h3Hdb46PpV8)
+* 49 React Souter [code](https://github.com/learn-co-students/dc-web-062419/tree/master/49-React-Router) | [wireframes](https://github.com/learn-co-students/dc-web-062419/blob/master/49-React-Router/artwork/Screen%20Shot%202019-09-04%20at%204.08.16%20PM.png) |[video](https://youtu.be/RhW9ppoXiJ0)
 
 ## Blog Groups
 
@@ -71,7 +73,7 @@
 * July 25 - Group A
 * August 1 - Group B
 * August 29 - Group A
-* September 5 - Group B
+* September 5 - Group B + Kolton
 * September 12 - Group A
 * September 19 - Group B
 
