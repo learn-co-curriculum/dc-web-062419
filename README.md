@@ -69,14 +69,14 @@
 
 ## Blog Schedule
 
-* July 11 - Group A
-* July 18 - Group B
-* July 25 - Group A
-* August 1 - Group B
-* August 29 - Group A
-* September 5 - Group B + Kolton
-* September 12 - Group A
-* September 19 - Group B
+* July 11 - Ursula, Kolton, Lisa, Jesse, Leslie, Harum, Michelle
+* July 18 - Luke, Claudia, Trevahr, Nick, Samantha, Ashley
+* July 25 - Ursula, Kolton, Lisa, Jesse, Leslie, Harum, Michelle
+* August 1 - Luke, Claudia, Trevahr, Nick, Samantha, Ashley
+* August 29 - Ursula, Lisa, Jesse, Leslie, Harum, Michelle
+* September 5 - Luke, Trevahr, Nick, Samantha, Ashley, Claudia
+* September 12 - Ursula, Kolton, Lisa, Jesse, Leslie, Harum, Michelle
+* September 19 - Luke, Claudia, Trevahr, Nick, Samantha, Ashley, Kolton
 
 ## Flatiron Students Present (FSP) Schedule
 
