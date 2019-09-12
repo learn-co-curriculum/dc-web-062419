@@ -69,7 +69,7 @@
 * 54 Thinking in Redux [code](https://github.com/learn-co-students/dc-web-062419/tree/master/54-Thinking-In-Redux) | video1(coming soon) | video2(coming soon)
 * 55 Async Redux [code](https://github.com/learn-co-students/dc-web-062419/tree/master/55-Async-Redux) | video(coming soon)
 * Additional Redux Review (from a previous cohort) [video](https://www.youtube.com/watch?v=hFAU_6FdM2Y&feature=youtu.be)
-* [Redux Code Along](https://www.valentinog.com/blog/redux/)
+* [Redux Tutorial Code Along](https://www.valentinog.com/blog/redux/)
 
 ## Blog Groups
 
