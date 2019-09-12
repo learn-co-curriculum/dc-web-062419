@@ -85,8 +85,8 @@
 * August 1 - Luke, Claudia, Trevahr, Nick, Samantha, Ashley
 * August 29 - Ursula, Lisa, Jesse, Leslie, Harum, Michelle
 * September 5 - Luke, Trevahr, Nick, Samantha, Ashley, Claudia
-* September 12 - Ursula, Kolton, Lisa, Jesse, Leslie, Harum, Michelle
-* September 19 - Luke, Claudia, Trevahr, Nick, Samantha, Ashley, Kolton
+* September 12 - Ursula, Kolton, Lisa, Leslie, Harum, Michelle
+* September 19 - Luke, Claudia, Trevahr, Nick, Samantha, Ashley, Kolton, Jesse
 
 ## Flatiron Students Present (FSP) Schedule
 
