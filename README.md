@@ -62,6 +62,15 @@
 * 49 React Souter [code](https://github.com/learn-co-students/dc-web-062419/tree/master/49-React-Router) | [wireframes](https://github.com/learn-co-students/dc-web-062419/blob/master/49-React-Router/artwork/Screen%20Shot%202019-09-04%20at%204.08.16%20PM.png) |[video](https://youtu.be/RhW9ppoXiJ0)
 * 50 Auth and LocalStorage [code](https://github.com/learn-co-students/dc-web-062419/tree/master/50-Auth) | [video part 1](https://youtu.be/rs-9aKCj8fQ) | [video part 2](https://youtu.be/lkaGXo1wER0)
 
+## Redux
+* 51 Intro to Redux [slides](https://github.com/learn-co-students/dc-web-062419/blob/master/51-Intro-to-Redux/ReduxLecture.pdf) | [video](https://youtu.be/EWVaxIgcqHY)
+* 52 Reducer and actions [code](https://github.com/learn-co-students/dc-web-062419/tree/master/52-Actions-Reducers) | video(coming soon)
+* 53 Provider and connect [code](https://github.com/learn-co-students/dc-web-062419/tree/master/53-Provider-Connect) | video(coming soon)
+* 54 Thinking in Redux [code](https://github.com/learn-co-students/dc-web-062419/tree/master/54-Thinking-In-Redux) | video1(coming soon) | video2(coming soon)
+* 55 Async Redux [code](https://github.com/learn-co-students/dc-web-062419/tree/master/55-Async-Redux) | video(coming soon)
+* Additional Redux Review [video](https://www.youtube.com/watch?v=hFAU_6FdM2Y&feature=youtu.be)
+* [Redux Code Along](https://www.valentinog.com/blog/redux/)
+
 ## Blog Groups
 
 * **Group A:** Ursula Miller, Kolton Starr, Lisa Antwi Adjei, Jesse Berman, Leslie Sage, Harum Helmy, Michelle Lam
