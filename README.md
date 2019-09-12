@@ -70,6 +70,7 @@
 * 55 Async Redux [code](https://github.com/learn-co-students/dc-web-062419/tree/master/55-Async-Redux) | video(coming soon)
 * Additional Redux Review (from a previous cohort) [video](https://www.youtube.com/watch?v=hFAU_6FdM2Y&feature=youtu.be)
 * [Redux Tutorial Code Along](https://www.valentinog.com/blog/redux/)
+* Helpful Pictures/Diagrams: [Redux Flow](https://github.com/learn-co-students/dc-web-062419/blob/master/54-Thinking-In-Redux/assets/redux-flow.pdf) | [Redux Set Up](https://github.com/learn-co-students/dc-web-062419/blob/master/54-Thinking-In-Redux/assets/redux-set-up.pdf)
 
 ## Blog Groups
 
