@@ -68,6 +68,7 @@
 * 53 Provider and connect [code](https://github.com/learn-co-students/dc-web-062419/tree/master/53-Provider-Connect) | [video](https://youtu.be/wsVOAfqcsHY)
 * 54 Thinking in Redux [code](https://github.com/learn-co-students/dc-web-062419/tree/master/54-Thinking-In-Redux) | [video1](https://www.youtube.com/watch?v=DqwwMxawb1E) | [video2](https://youtu.be/0ek24TRv1RY)
 * 55 Async Redux [code](https://github.com/learn-co-students/dc-web-062419/tree/master/55-Async-Redux) | [video](https://youtu.be/vEY7kDT-zdY)
+* 56 Deployment [code](https://youtu.be/1qwJlVGRlCs)
 * Additional Redux Review (from a previous cohort) [video](https://www.youtube.com/watch?v=hFAU_6FdM2Y&feature=youtu.be)
 * [Redux Tutorial Code Along](https://www.valentinog.com/blog/redux/)
 * Helpful Pictures/Diagrams: [Redux Flow](https://github.com/learn-co-students/dc-web-062419/blob/master/54-Thinking-In-Redux/assets/redux-flow.pdf) | [Redux Set Up](https://github.com/learn-co-students/dc-web-062419/blob/master/54-Thinking-In-Redux/assets/redux-set-up.pdf)
