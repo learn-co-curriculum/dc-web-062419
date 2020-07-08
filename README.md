@@ -4,7 +4,7 @@
 
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX2FjZDlram5kc2d2NGw1dnM5NGw1b3BmZGRvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX3A4ajk2M3ZkNDRqaTU2OThmM2k0bmtycTcwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%237986CB&amp;color=%238E24AA&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-## Lecture code / videos
+## Mod 1
 
 * 01 Hashketball [code](https://github.com/learn-co-students/dc-web-062419/tree/master/01-hashketball-review) | [video](https://youtu.be/aQ8C3U566MQ)
 * 02 Hashes and APIs [code](https://github.com/learn-co-students/dc-web-062419/tree/master/02-apis-and-the-internet) | video [pt1](https://youtu.be/NQZz6BSxD7U) [pt2](https://youtu.be/6_1BG6r0Q-E)
@@ -20,6 +20,8 @@
 * 12 Active Record Associations [code](https://github.com/learn-co-students/dc-web-062419/tree/master/12-active-record-associations) | [video (from last mod)](https://youtu.be/BE8pl7DXwvo)
 * 13 Testing [code](https://github.com/learn-co-students/dc-web-062419/tree/master/13-intro-to-testing) | [video](https://youtu.be/nEwYwjGH5Xc)
 * 13.5 Welcome to the Internet [video](https://youtu.be/neBv0Y9Es0o)
+
+## Mod 2
 * 14 Intro to Sinatra / MVC [code](https://github.com/learn-co-students/dc-web-062419/tree/master/14-sinatra-mvc) | [video](https://youtu.be/6VTCclwT9M8)
 * 15 Sinatra Forms [code](https://github.com/learn-co-students/dc-web-062419/tree/master/15-sinatra-forms) | [video](https://youtu.be/HV_ggSI8fTM)
 * 16 Sinatra Associated Objects [code](https://github.com/learn-co-students/dc-web-062419/tree/master/16-sinatra-associated-objects) | [video](https://youtu.be/OoG1DGdyPy8)
